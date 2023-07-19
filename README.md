@@ -76,8 +76,12 @@ Features:
 
 - Customizable styles and images to suit your preferences.
 
-
 Note: The code can be further edited to enhance its attractiveness and security. Feel free to modify the HTML, CSS, or JavaScript files to add more features or customize the design according to your requirements.
+
+## Deployment Status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/065e2a76-8c2a-4de5-afdc-8430349dd5d2/deploy-status)](https://app.netlify.com/sites/kanasu-cryptocurrency-info/deploys)
+
 ## Contributing
 
 Contributions are always welcome!
